@@ -4,8 +4,6 @@ Companion repository for the manuscript **“Comparative Analysis of Optimizers 
 
 This repository contains the complete five-optimizer benchmark: **SGD with momentum, RMSprop, Adam, AdamW and RAdam** on **ResNet18, EfficientNetV2-S and MobileNetV3-Large**, using **PBC, Naturalize 2K-PBC and Raabin-WBC**, with **10 seeds per configuration** and **450 training runs** in total.
 
-The repository is intentionally limited to the five optimizers reported in the manuscript. No other optimizer is part of this benchmark.
-
 ---
 
 ## 1. Contents
@@ -258,6 +256,6 @@ The datasets are public and are cited above. The experiment configurations and t
 
 If you use this repository, please cite the manuscript:
 
-> M. de los Ángeles Yanes-Pérez et al., “Comparative Analysis of Optimizers in CNNs for Hematological Image Classification,” *IJISTA* (manuscript).
+> Yanes-Pérez, M. A., Hernández-Nolasco, J. A. & Wister, M. A. (2026). Comparative Analysis of Optimizers in CNNs for Hematological Image Classification [Special Issue on Artificial Intelligence and Digital Transformation: Research, Applications and Future Challenges]. International Journal of Information Science and Technological Applications-UAS IJISTA, 2(1), 00-00. DOI: (En trámite)
 
 Please also cite the three dataset papers listed in Section 2.
