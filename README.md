@@ -116,7 +116,7 @@ These rates were fixed before the comparisons and were not tuned per optimizer, 
 
 ## 5. Software
 
-The original runs were executed in Google Colab on NVIDIA T4 and L4 GPUs. The training notebooks logged:
+The original runs were executed in Google Colab on NVIDIA T4. The training notebooks logged:
 
 - **Python:** 3.13.9
 - **PyTorch:** 2.14.0
