@@ -121,7 +121,7 @@ The original runs were executed in Google Colab on NVIDIA T4 and L4 GPUs. The tr
 - **Python:** 3.13.9
 - **PyTorch:** 2.14.0
 - **torchvision:** 0.29.0 (bundled with PyTorch 2.14.0 in the runtime used here)
-- **CUDA:** GPU runtime provided by Colab (T4 16 GB or L4 24 GB)
+- **CUDA:** GPU runtime provided by Colab (T4 16 GB)
 - **Other libraries:** NumPy, pandas, scikit-learn and Matplotlib as provided by the Colab runtime; exact versions were not logged.
 
 The notebook also uses the Kaggle CLI only to download the public datasets. If the datasets are already available locally, no download is needed.
